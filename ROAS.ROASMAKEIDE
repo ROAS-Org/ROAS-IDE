@@ -1,0 +1,8 @@
+ROAS(MakeIDE) { MakeIDE() {
+MakeDevice(RoBo);
+MakeDevices(OAS);
+IncludeDevices(RoBo's);
+IncludeDevices(OAS's);
+MakeIDE-}
+Make'etIDE();
+}
